@@ -1,0 +1,23 @@
+{
+  "name": "@kylebarron/geojson-to-deck",
+  "version": "0.1.0",
+  "description": "GeoJSON to deck.gl flat binary arrays",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylebarron/geojson-to-deck.git"
+  },
+  "keywords": [
+    "deck.gl",
+    "geojson"
+  ],
+  "author": "Kyle Barron (https://kylebarron.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kylebarron/geojson-to-deck/issues"
+  },
+  "homepage": "https://github.com/kylebarron/geojson-to-deck#readme"
+}
